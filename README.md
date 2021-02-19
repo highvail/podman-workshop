@@ -22,6 +22,10 @@ At HighVail, **we really like**:
 - Troubleshooting and Technical Support
 - **Day 2 Ops** and Beyond
 
-**Contact us at** info@highvail.com
+**Contact us at** 
+
+info@highvail.com
+
 1 St. Clair Ave. West, Suite 1201, Toronto, Ontario, Canada M4V 1K6
+
 (416) 867-3000
